@@ -1,3 +1,5 @@
+![Africa & Global Power Banner](assets/banner.png)
+
 # Africa & Global Power
 
 **Africa & Global Power** is an open-access publication repository dedicated to research and analysis on Africa's place in an evolving global order.
