@@ -185,7 +185,7 @@ Africa-specific empirical research on AI ROI, currently a significant evidence g
 ## Conclusion
 
 
-The AI ROI crisis is a human capital crisis wearing a technology label. That conclusion holds across every enterprise study reviewed in this brief, and it holds with even greater force for Africa, where the workforce and infrastructure gaps are wider and the public resources available to absorb a procurement mistake are smaller.
+The AI ROI crisis is a human capital crisis wearing a technology label. The conclusion holds across every enterprise study reviewed in this brief, and it holds with even greater force for Africa, where the workforce and infrastructure gaps are wider and the public resources available to absorb a procurement mistake are smaller.
 
 The investment cycles that locked American and European enterprises into tool-first, people-second strategies are not yet complete on the continent. Africa's own strategy documents already identify the gaps. What remains is the political will to fund people before platforms, while that choice is still available.
 
