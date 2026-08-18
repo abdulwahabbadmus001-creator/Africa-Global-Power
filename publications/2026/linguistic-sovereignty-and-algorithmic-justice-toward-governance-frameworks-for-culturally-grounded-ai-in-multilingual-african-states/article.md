@@ -1,8 +1,12 @@
 ## Publication Information
 
-- Publication ID: AGP-2026-003 
+- Publication ID: AGP-2026-003
 
-- Author: Africa & Global Power Editorial Board 
+- Title: Linguistic Sovereignty and Algorithmic Justice: Toward Governance Frameworks for Culturally-Grounded AI in Multilingual African States
+
+- Subtitle: Nigeria's more than 500 indigenous languages show why AI governance in Africa cannot be built on data alone
+
+- Author: Wahab O. Badmus
 
 - Publication Type: Research Analysis 
 
@@ -72,10 +76,9 @@ This publication argues that closing that gap is a governance problem, not a dat
 - References
 
 
-Full Publication
+## Full Publication
 
-
-## Introduction
+**Introduction**
 
 Africa holds more than 2,000 living languages across 54 countries, a linguistic density with no equivalent on any other continent. The European Union, by comparison, manages 24 official languages across 27 member states, a number treated internationally as a benchmark of multilingual complexity. Set against Nigeria's own count of over 500 indigenous languages, the European comparison starts to look modest.
 
@@ -83,8 +86,7 @@ Large AI models are not built for this reality. The systems dominating global de
 
 This is a governance problem before it is a technical one. There is no commercial reason for a foreign AI company to build fluent support for Kanuri or Ijaw when English serves the paying market well enough. Waiting for the market to correct this treats a structural exclusion as a temporary lag rather than what it actually is.
 
-
-## Background: The Scale of the Gap
+**Background: The Scale of the Gap**
 
 Masakhane, a grassroots research collective working across Africa and the diaspora, has documented that African languages, representing close to a third of the world's living languages, account for a fraction of a percent of published NLP research output. The organisation's own founding documentation notes that this exclusion is not simply a resourcing gap but a continuation of colonial-era patterns in which African languages were deprioritised in the institutions, publishing and technology built around them.
 
@@ -93,7 +95,7 @@ Nick Couldry and Ulises Mejias describe this broader pattern as data colonialism
 The African Union's Continental AI Strategy, endorsed at the 45th Ordinary Session in Accra in July 2024, commits all 55 member states to an Africa-centric, development-focused approach to AI adoption. A strategy document, however, is not a binding obligation, and intention does not substitute for enforcement.
 
 
-## Analysis: Three Failures
+**Analysis: Three Failures**
 
 Three specific failures define the current situation.
 
