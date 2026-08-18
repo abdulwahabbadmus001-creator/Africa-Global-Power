@@ -8,7 +8,7 @@
 
 - Category: AI Governance, Digital Sovereignty, Technology Policy 
 
-- Publication Date: 7 August 2026 
+- Publication Date: 18 August 2026 
 
 - Version: v1.0 
 
