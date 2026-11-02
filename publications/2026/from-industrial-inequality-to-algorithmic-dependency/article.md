@@ -9,7 +9,7 @@
 - **Publication ID:** AGP-2026-004
 - **Publication Type:** Research Monograph
 - **Category:** AI Governance, Political Economy and Technology
-- **Publication Date:** October 2026
+- **Publication Date:** November 2026
 - **Version:** 1.0
 
 ---
