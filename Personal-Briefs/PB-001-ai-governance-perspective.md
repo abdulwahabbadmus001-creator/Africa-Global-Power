@@ -1,4 +1,4 @@
-# AI Governance: A Perspective from the Personal's Desk
+# AI Governance: A Perspective from the Builder's Desk
 
 **Brief ID:** PB-001  
 **Author:** Wahab Opeyemi Badmus, Founder, Africa & Global Power  
