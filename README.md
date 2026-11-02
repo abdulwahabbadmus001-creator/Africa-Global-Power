@@ -49,6 +49,7 @@ africa-global-power/
 
 ├── publications/
 ├── assets/
+├── Personal-Briefs
 ├── templates/
 ├── README.md
 └── LICENSE
