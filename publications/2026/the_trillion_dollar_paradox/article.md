@@ -2,11 +2,15 @@
 
 ### *A Comprehensive Policy & Economic Analysis on Digital Sovereignty, Compute Infrastructure, and Algorithmic Dependency*
 
-| Document Metadata & Executive Brief | |
-| :--- | :--- |
-| **Author** | Academic Monograph & Policy Framework |
-| **Scope** | African Union, Regional Anchor States (Egypt, Kenya, South Africa, Nigeria, Rwanda) |
-| **Focus Horizon** | 2024–2035 Economic Projections and Regional Governance Architectures |
+## Publication Information
+
+- **Publication:** Africa & Global Power
+- **Author:** Wahab Opeyemi Badmus
+- **Publication ID:** AGP-2026-005
+- **Publication Type:** Research Monograph
+- **Category:** AI Governance, Macroeconomic, and Technology
+- **Publication Date:** November 2026
+- **Version:** 1.0
 
 ---
 
