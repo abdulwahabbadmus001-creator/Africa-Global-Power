@@ -1,12 +1,16 @@
 # Between Digital Solutions and Data Secrecy: Investigating the Tripartite Role of Developers, Data Subjects, and the NDPC in Nigerian Software Abandonment
 
-### *A Comprehensive Policy & Legal Analysis on Data Protection, Software Architecture, and Digital Trust in Nigeria's Digital Economy*
+### *A Comprehensive Research Monograph & Legal Analysis on Data Protection, Software Architecture, and Digital Trust in Nigeria's Digital Economy*
 
-| Document Metadata & Executive Brief | |
-| :--- | :--- |
-| **Author** | Academic Monograph & Policy Framework |
-| **Scope** | Nigeria Digital Economy, Software Ecosystem, and Regulatory Governance |
-| **Focus Horizon** | NDPA 2023, GAID 2025, and the Trillion-Dollar Digital Economy Ambition |
+## Publication Information
+
+- **Publication:** Africa & Global Power
+- **Author:** Wahab Opeyemi Badmus
+- **Publication ID:** AGP-2026-006
+- **Publication Type:** Research Monograph & Legal Analysis
+- **Category:** Nigeria Digital Economy, Software Ecosystem, Data Governance, Algorithmic Ethics, Technology Law, Policy
+- **Publication Date:** November 2026
+- **Version:** 1.0
 
 ---
 
